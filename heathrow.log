@@ -1,0 +1,11 @@
+09:54:07 no stop button
+09:59:33 place loaded true
+10:00:47 shot a-place
+10:07:57 pickable [{"x":792,"y":504,"d":171.8138527593162,"id":"348508"},{"x":816,"y":432,"d":180,"id":"400a7d"},{"x":792,"y":432,"d":199.71980372511888,"id":"40683e"},{"x":720,"y":504,"d":242.6849809938802,"id":"42584b"},{"x":720,"y":624,"d":254.27544120500508,"id":"42584c"},{"x":624,"y":432,"d":352.9305880764658,"id":"a50e93"},{"x":576,"y":456,"d":393.0801444998208,"id":"400a25"},{"x":528,"y":528,"d":432.1666345288586,"id":"406f79"}]
+10:13:15 after click loaded false
+10:15:19 fail b-asset page.screenshot: Timeout 120000ms exceeded.
+Call log:
+  - taking page screenshot
+  - waiting for fonts to load...
+
+10:17:45 shot c-asset-later
